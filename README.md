@@ -93,7 +93,7 @@ While this repository primarily chronicles my personal learning journey, contrib
 For questions, collaboration opportunities, or to provide mentorship, please reach out via:
 
 - Email: `abigailabiodun54@gmail.com`
-- GitHub: [github.com/AbiodunOluwalofemi](https://github.com/Bunnie-Be)
+- GitHub: [github.com/Bunnie-Bee](https://github.com/Bunnie-Bee)
 
 ---
 
